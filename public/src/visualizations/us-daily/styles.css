@@ -1,0 +1,8 @@
+.line {
+  fill: none;
+  stroke: #000;
+}
+
+.line-point {
+  fill: gray;
+}

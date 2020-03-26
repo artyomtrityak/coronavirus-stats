@@ -1,2 +1,2 @@
 # coronavirus-stats
-Data visualizations for coronavirus problem
+Data visualizations for Coronavirus problem
